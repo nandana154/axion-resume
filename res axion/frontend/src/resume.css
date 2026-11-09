@@ -1,0 +1,30 @@
+
+.resume {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 40px;
+    background: white;
+    color: black;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.resume img {
+    object-fit: cover;
+}
+
+.resume h2 {
+    margin-top: 25px;
+}
+
+.resume table {
+    border-collapse: collapse;
+}
+
+.resume a {
+    color: blue;
+}
+
+.resume hr {
+    margin: 25px 0;
+}
